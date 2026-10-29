@@ -1,0 +1,3 @@
+:HL["/tochien/_next/static/chunks/3jm2i24hapgqt.css","style"]
+:HC["/",""]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"eigo","param":null,"prefetchHints":4192,"slots":{"children":{"name":"questionId","param":{"type":"d","key":"r5","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"subId","param":{"type":"d","key":"3","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}}}},"staleTime":300,"buildId":"i2PF4EwFH-SqpbLbVgqXJ"}
